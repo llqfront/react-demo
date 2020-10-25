@@ -1,0 +1,29 @@
+{
+  "files": {
+    "home.js": "/www/bdplus/static/js/home.4f9209b8.chunk.js",
+    "main.css": "/www/bdplus/static/css/main.791ca0ea.chunk.css",
+    "main.js": "/www/bdplus/static/js/main.b2788154.chunk.js",
+    "otc.js": "/www/bdplus/static/js/otc.60f46507.chunk.js",
+    "runtime-main.js": "/www/bdplus/static/js/runtime-main.988662a6.js",
+    "static/js/4.a91d467d.chunk.js": "/www/bdplus/static/js/4.a91d467d.chunk.js",
+    "static/js/5.1fbd8f7e.chunk.js": "/www/bdplus/static/js/5.1fbd8f7e.chunk.js",
+    "index.html": "/www/bdplus/index.html",
+    "static/js/4.a91d467d.chunk.js.LICENSE.txt": "/www/bdplus/static/js/4.a91d467d.chunk.js.LICENSE.txt",
+    "static/media/p0.552dec3c.jpg": "/www/bdplus/static/media/p0.552dec3c.jpg",
+    "static/media/p1.ee08cd4e.jpg": "/www/bdplus/static/media/p1.ee08cd4e.jpg",
+    "static/media/p2.b4502395.jpg": "/www/bdplus/static/media/p2.b4502395.jpg",
+    "static/media/p3.0040399e.jpg": "/www/bdplus/static/media/p3.0040399e.jpg",
+    "static/media/p4.ef55bc04.jpg": "/www/bdplus/static/media/p4.ef55bc04.jpg",
+    "static/media/p5.703a10c0.jpg": "/www/bdplus/static/media/p5.703a10c0.jpg",
+    "static/media/p6.4e7e9db0.jpg": "/www/bdplus/static/media/p6.4e7e9db0.jpg",
+    "static/media/p7.4c324f3f.jpg": "/www/bdplus/static/media/p7.4c324f3f.jpg",
+    "static/media/p8.bb16aacc.jpg": "/www/bdplus/static/media/p8.bb16aacc.jpg",
+    "static/media/p9.3aa97658.jpg": "/www/bdplus/static/media/p9.3aa97658.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.988662a6.js",
+    "static/js/4.a91d467d.chunk.js",
+    "static/css/main.791ca0ea.chunk.css",
+    "static/js/main.b2788154.chunk.js"
+  ]
+}
